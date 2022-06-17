@@ -21,24 +21,34 @@
 <br>
 
 ## Purpose:
-**Course Work:** Learn FETCH API in with JavaScript.
+**Course Work:** Explore how to connect to various web APIs using JavaScript fetch. Use the returned data JSON data within you Code. Learn FETCH API in with JavaScript.
 
 ## Description:
 
-Accessing data from an API is one of the most common things you will do in web development, and the way to access APIs is with fetch. Fetch is function built into JavaScript that allows you to query any URL/API to get back data. The most important part is that fetch is asynchronous so it will run in the background and let you know when it finishes using promises. In this video I will show you exactly how to use fetch, and all of the common mistakes people make using fetch so you can get up and running in just six minutes.
+Web APIs JavaScript Fetch getting JSON data Fun with APIs
+
+Explore how to connect to various web APIs using JavaScript fetch.  Use the returned data JSON data within you Code.
+
+Explore JavaScript Objects and how you can get JSON data with an API connection using JavaScript Code
+
+Get data from a web server and use that data within you JavaScript application.
 
 ### Concepts Covered:
 
-- What the fetch API is
-- How to use the fetch API
-- How to handle API response errors
-- How to use JSON data with fetch
+- What JavaScript objects are and how to use them in code
+- How to iterate through arrays and objects to get data
+- Complex JavaScript Objects with many layers of data
+- JSON lint and how to read JSON data
+- How to use fetch to connect to web APIs
+- Various examples of connecting to APIs to create interactive web applications.
+- Using JavaScript code to connect to web APIs
+- Setup of localhost using node and express
+- Using node to make API requests
+- Setup of local web host
 
 ### Materials/References:
 
-Fetch Article: https://blog.webdevsimplified.com/202...
-Learn Promises In 10 Minutes Video: https://youtu.be/DHvZLI7Db8E
-Async Await Course: https://youtu.be/V_Kr9OSfDeU
+- N/A
 
 ### Sample Code from Course:
 
