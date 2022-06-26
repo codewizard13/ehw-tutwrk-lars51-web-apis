@@ -62,7 +62,7 @@
     
 ## Sample results: 
 
-![Screenshot: Sample results showing JSON object from console.logging browser object](img/ehw-screenshot--launch-chromium-02.jpg)
+![Sample Results PLACEHOLDER]()
 
 ## Requires:
 * A web browser.
@@ -84,7 +84,7 @@
 Puppeteer, Headless Browser, Web Scraping
 
 ## VOCAB:
-- Tutwrk: This is term I use to indicate the work I did when following a Course. This term is differentiated from Courses I may create/author in the future that will be designated with the term "Course".
+- **Tutwrk:** This is term I use to indicate the work I did when following a Course. This term is differentiated from Courses I may create/author in the future that will be designated with the term "Course".
 
 ## Resources:
 - N/A
