@@ -25,13 +25,13 @@
 
 ## Description:
 
-Web APIs JavaScript Fetch getting JSON data Fun with APIs
+- Web APIs JavaScript Fetch getting JSON data Fun with APIs
 
-Explore how to connect to various web APIs using JavaScript fetch.  Use the returned data JSON data within you Code.
+- Explore how to connect to various web APIs using JavaScript fetch.  Use the returned data JSON data within you Code.
 
-Explore JavaScript Objects and how you can get JSON data with an API connection using JavaScript Code
+- Explore JavaScript Objects and how you can get JSON data with an API connection using JavaScript Code
 
-Get data from a web server and use that data within you JavaScript application.
+- Get data from a web server and use that data within you JavaScript application.
 
 ### Concepts Covered:
 
